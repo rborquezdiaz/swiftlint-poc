@@ -40,7 +40,7 @@
 		EFDFF13A2BF31838007BCE7A = {
 			isa = PBXGroup;
 			children = (
-				EFDFF1452BF31838007BCE7A /* SwiftLintPOC */,
+				EFDFF1452BF31838007BCE7A /* swiftlint-poc */,
 				EFDFF1442BF31838007BCE7A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EFDFF1452BF31838007BCE7A /* SwiftLintPOC */ = {
+		EFDFF1452BF31838007BCE7A /* swiftlint-poc */ = {
 			isa = PBXGroup;
 			children = (
 				EFDFF1462BF31838007BCE7A /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				EFDFF1512BF31839007BCE7A /* LaunchScreen.storyboard */,
 				EFDFF1542BF31839007BCE7A /* Info.plist */,
 			);
-			path = SwiftLintPOC;
+			path = "swiftlint-poc";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EFDFF13E2BF31838007BCE7A /* Build configuration list for PBXProject "SwiftLintPOC" */;
+			buildConfigurationList = EFDFF13E2BF31838007BCE7A /* Build configuration list for PBXProject "swiftlint-poc" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -344,7 +344,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EFDFF13E2BF31838007BCE7A /* Build configuration list for PBXProject "SwiftLintPOC" */ = {
+		EFDFF13E2BF31838007BCE7A /* Build configuration list for PBXProject "swiftlint-poc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EFDFF1552BF31839007BCE7A /* Debug */,

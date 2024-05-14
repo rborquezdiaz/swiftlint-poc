@@ -1,0 +1,10 @@
+module(
+    name = "swiftlint-poc",
+    version = "0.0.0",
+    compatibility_level = 1,
+    repo_name = "swiftlint-poc"
+)
+
+bazel_dep(name = "apple_support", version = "1.15.1", repo_name = "build_bazel_apple_support") 
+bazel_dep(name = "rules_apple", version = "3.5.1", repo_name = "build_bazel_rules_apple")
+bazel_dep(name = "swiftlint", version = "0.54.0", repo_name = "SwiftLint")
